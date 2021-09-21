@@ -1,6 +1,6 @@
 # gỉ
 
-![Gỉ's logo](https://github.com/Huy-Ngo/gỉ/raw/chính/logo.jpeg)
+![Gỉ's logo](https://github.com/Huy-Ngo/gỉ/raw/chính/logo.png)
 
 Aren't you *mệt mỏi* from writing Rust programs in English?
 Do you like saying "đù" a lot?
