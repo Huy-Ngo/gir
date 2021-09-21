@@ -98,6 +98,6 @@ for a more up-to-date list.
 
 ## Giấy phép
 
-[Giấy phép Công cộng Thích làm gì thì làm](https://github.com/Huy-Ngo/gỉ/blob/chính/GIẤY_PHÉP),
+[Giấy phép Công cộng Thích làm gì thì làm](https://github.com/Huy-Ngo/gir/blob/chính/GIẤY_PHÉP),
 the unofficial translation of the [WTFPL](http://www.wtfpl.net/)
 by the me.
