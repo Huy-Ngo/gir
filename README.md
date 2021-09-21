@@ -9,8 +9,8 @@ exotic and funny-sounding language?
 Would you want to bring some Vietnamese touch to your programs?
 
 **gỉ** (Vietnamese for _Rust_) is here to save your day, as it allows you to
-write Rust programs in Vietnamese, using Vietnamese keywords, Vietnamese function names,
-Vietnamese idioms.
+write Rust programs in Vietnamese, using Vietnamese keywords, Vietnamese
+function names, Vietnamese idioms.
 
 You're not from Vietnam mainland and don't feel at ease using only Vietnamese
 words? Don't worry!  Vietnamese Rust is fully compatible with English-Rust, so
@@ -18,7 +18,7 @@ you can mix both at your convenience.
 
 Here's an example of what can be achieved with Gỉ:
 
-### trait and impl (aka tính chất et triển khai)
+### trait and impl (aka tính chất và triển khai)
 
 ```rust
 gỉ::gỉ! {
