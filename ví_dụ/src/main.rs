@@ -8,7 +8,7 @@ gỉ::gỉ! {
         hàm đọc(&bản_thân, giá_trị: Xâu) -> Tuỳ<&Xâu>;
     }
 
-    tĩnh khả_biến TỪ_ĐIỂN: Tuỳ<ÁnhXạ<Xâu, Chaine>> = Rỗng;
+    tĩnh khả_biến TỪ_ĐIỂN: Tuỳ<ÁnhXạ<Xâu, Xâu>> = Rỗng;
 
     cấu_trúc CụThể;
 
