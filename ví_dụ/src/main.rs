@@ -1,7 +1,7 @@
 gỉ::gỉ! {
     ngoại thùng gỉ;
 
-    dùng chuẩn::collections::ÁnhXạBăm như ÁnhXạ;
+    dùng chuẩn::tập_hợp::ÁnhXạBăm như ÁnhXạ;
 
     tính_chất KhoáGiáTrị {
         hàm viết(&bản_thân, khoá: Xâu, giá_trị: Xâu);
@@ -78,8 +78,8 @@ gỉ::gỉ! {
 
     #[cho_phép(mã_không_được_chạy)]
     hàm thứ_cấp() {
-        đù!("ôi không"); // for the true Vietnamese experience
-        trời_đất!("lỗi rồi"); // in SFW contexts
-        ối!("sai ở đây"); // in SFW contexts, but shorter
+        đù!("ôi không");
+        trời_đất!("lỗi rồi");
+        ối!("sai ở đây");
     }
 }
