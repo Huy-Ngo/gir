@@ -22,7 +22,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "lặp" => "loop",
         "di_chuyển" => "move",
         "thùng" => "crate",
-        "mã_không_được_chạy" => "unreachable_code",
+        "mã_không_chạy_được" => "unreachable_code",
         "như" => "as",
         "hằng" | "hằng_số" => "const",
         "tính_chất" | "tính" => "trait",
